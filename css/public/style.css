@@ -299,6 +299,7 @@ detailsitem.failed > select {
 /* addressbook settings */
 ul.addressBookList > li {
 	padding: 6px 0;
+	margin-bottom: 5px;
 }
 
 ul.addressBook-share-list {
@@ -505,10 +506,6 @@ contactlist .tooltip {
 .app-content-list-item-line-two {
 	top: 25px;
 	opacity: .5;
-}
-
-ul.addressBookList > li {
-	margin-bottom: 5px;
 }
 
 ul.addressBook-share-list {
